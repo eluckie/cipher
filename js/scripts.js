@@ -1,7 +1,8 @@
 //ui logic
 
 const entry1 = prompt("Please type a sentence.");
-alert(display(entry1));
+
+alert(display("You typed: " + entry1));
 
 // business logic
 
